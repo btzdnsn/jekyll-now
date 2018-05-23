@@ -1,6 +1,6 @@
 
 > Planing to study abroad.
-> Yet another chengxuyuan.
+> A future Googler.
 
 
 Hi, I am *@mengyun* (Mengyun, Wang), learning to become a computer software engineer or a self-driving car engineer. I'm going to study computer science in NorthEastern University in USA. 
